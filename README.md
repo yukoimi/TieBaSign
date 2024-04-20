@@ -2,7 +2,7 @@
 
 ## 今日签到状态
 
-![Baidu Tieba Auto Sign](https://github.com/gwtak/TieBaSign/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
+[![Baidu Tieba Auto Sign](https://github.com/Tr4velt0Here/TieBaSign/actions/workflows/main.yml/badge.svg)](https://github.com/Tr4velt0Here/TieBaSign/actions/workflows/main.yml)
 
 ## 使用说明
 
